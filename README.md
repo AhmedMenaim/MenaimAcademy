@@ -64,7 +64,7 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
 
 
 ### Course Assignments
-1. Assignment 1 -> Iterations all the time
+1. Assignment 1 -> Iterations all the time ⌛️
    
          a. iterate on numbers from 1 -> 100 and print the number at each time
       
@@ -72,7 +72,7 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
       
 <!--          c. Welcome to the anime world 🥳  -->
 
-2. Assignment 2 -> Grading Student
+2. Assignment 2 -> Grading Student 📚
 
     Consider yourself a student and we have your grades out of 100 in a dictionary like this: 
           grades = ["Math": 85, "Arabic": 90, "Chemistery": 60, "Physics": 95, "English": 70, "Duetsch": 93]
@@ -84,7 +84,7 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
          c. print the best subject name with its grade
     
 
-3. Assignment 3 -> Functions World
+3. Assignment 3 -> Functions World 🌎
 
    You will practice your knowledge in functions as below:
    
@@ -98,6 +98,7 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
 ### Course Advices
 
 ## iOS Design Basics
+
 As a start for any iOS Engineer, you need to know some design basics like how to set the design components in the screen, how to adapt the size on any iPhone size called **Autolayout**, you will need to know what are these components, etc...
 
 So you can check the below topics:
@@ -111,6 +112,7 @@ More videos in iOS design will come very soon but after finishing the [Swift cou
 ## Random iOS Topics
 
 As any iOS engineer while developing your apps you may face a new thing and this thing may be a little bit advanced or you didn't face something like this before, that's why I have decided to create some videos for things I have faced and I've found less resources for them like: 
+
    1. [Download PDF file Using Alamofire](https://youtu.be/qFvN-PpqSIE)
    2. [Download PDF file without using Alamofire ](https://youtu.be/F8xQ6BuaayU)
    3. [Images Autosizing in CollectionViews](https://youtu.be/zBzTnR9BoaQ)
