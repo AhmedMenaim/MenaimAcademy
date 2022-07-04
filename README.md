@@ -45,35 +45,111 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
 
 
 ### Course Content
+1. Constants & Variables [Code]()
+2. Data Types -> (Float,Double,Bool & Character) [Code]()
+3. Data Types - Strings [Code]()
+4. Conversions & Comments [Code]()
+5. Optionals [Code]()
+6. Operators Part I [Code]()
+7. Conditional Statements - If else [Code]()
+8. Conditional Statements - Switch case [Code]()
+9. Operators Part II [Code]()
+10. Collection Types - Arrays [Code]()
+11. Collection Types - Set [Code]()
+12. Collection Types - Dictionaries [Code]()
+13. Control Flow - Loops [Code]()
+14. Functions Part I [Code]()
+15. Tuples + Functions Part II [Code]()
+16. Functions Part III [Code]()
+
 
 ### Course Assignments
+1. Assignment 1 -> Iterations all the time
+   
+         a. iterate on numbers from 1 -> 100 and print the number at each time
+      
+         b. You have a list of students -> ["Ahmed", "Menna", "Mohamed", "Ehab", "Nermeen", "Menaim", "Mahmoud", "Yara"] and I need to print the names which are in odd indeces and even indeces in the list
+      
+<!--          c. Welcome to the anime world 🥳  -->
+
+2. Assignment 2 -> Grading Student
+
+    Consider yourself a student and we have your grades out of 100 in a dictionary like this: 
+          grades = ["Math": 85, "Arabic": 90, "Chemistery": 60, "Physics": 95, "English": 70, "Duetsch": 93]
+          
+         a. I need you to know the % of all the grades and print it
+         
+         b. If the % is greater than 90% print "Excellent", if it's less than 60% print "Failed" otherwise print "Good"
+         
+         c. print the best subject name with its grade
+    
+
+3. Assignment 3 -> Functions World
+
+   You will practice your knowledge in functions as below:
+   
+         a. Create calculator functions -> function to sum, function to subtract, function to multiply & function to divide
+         sum & subtract will print the result but multiply & divide will return the result
+         
+         b. Create a function with an Int array parameter and return a (string) which is the heighst number
+         
+         c. Create a function one double parameter to calculate the circle area & perimeter (محيط) and return both of them in one time 
 
 ### Course Advices
 
 ## iOS Design Basics
+As a start for any iOS Engineer, you need to know some design basics like how to set the design components in the screen, how to adapt the size on any iPhone size called **Autolayout**, you will need to know what are these components, etc...
+
+So you can check the below topics:
+1. [Introduction to iOS Design Part I](https://youtu.be/B3bl2WXsO0I) 
+2. [Introduction to iOS Design Part II](https://youtu.be/FNZp5xxRB94) 
+3. [iOS AutoLayout Part I](https://youtu.be/iKJwDGpwrXE)
+4. [iOS AutoLayout using ScrollView](https://youtu.be/FdcFWgofJvs)
+
+More videos in iOS design will come very soon but after finishing the [Swift course](https://github.com/CryptoOo/MenaimAcademy/edit/main/README.md#swift-course).
 
 ## Random iOS Topics
 
+As any iOS engineer while developing your apps you may face a new thing and this thing may be a little bit advanced or you didn't face something like this before, that's why I have decided to create some videos for things I have faced and I've found less resources for them like: 
+   1. [Download PDF file Using Alamofire](https://youtu.be/qFvN-PpqSIE)
+   2. [Download PDF file without using Alamofire ](https://youtu.be/F8xQ6BuaayU)
+   3. [Images Autosizing in CollectionViews](https://youtu.be/zBzTnR9BoaQ)
+   4. [Introduction to iOS unit testing](https://youtu.be/-fGdNcG26a8)
+   
 ## SwiftUI Course
 
 
 ## Github App
+As an iOS fresh learner, you will need to get your hand on the field more and more, that's why you need to try creating different apps all the time and these apps supposed to contain newtowrk layer, to be on advanced architectures and to be as much as you can in a clean code and the best way as you can so I've create this app which you can implement all of the previous just like I said: 
+
+1. [API Service using URLSession + Codable](https://youtu.be/CLwZxqJWm4A)
+2. [App initial Design and View API Data](https://youtu.be/BwMDLRHNssE)
+3. [Pagination without having page parameter in API Call](https://youtu.be/yltir4oke5I) -> TOP IMPORTANT
+4. [Download Image from URL without using Pods or Frameworks](https://youtu.be/-lnZ1f4uPWE) -> Required in tasks
+5. [Using Nibs instead of Storyboards](https://youtu.be/q4HInmbsDkw)
+6. [From MVC to MVP](https://youtu.be/OyHEpByT4XU) ( Architecture )
+
+[**You can know more about it through its repository.**](https://github.com/CryptoOo/Github-Project-Swift)
 
 ## How to get a job
 
 Hmmm, I'm always searching for jobs but nothing happened, I'm applying to many jobs but no one is answering me, sometimes if you don't have a response from a company the first thing came to our mind is that the company doesn't care and of course it's a bad attitude from the company and all of us knew that but we need to give 5% of this to be on us...
 May be there is an issue in the CV or my Linkedin profile and that's why I have created couple of videos to show you how to enhance your Cv, LinkedIn, etc...
 1. The first thing you need to know is [how you can get a job after the graduation directly](https://youtu.be/7GGG3PaNzR8) and this by pushing yourself to the limits:
+
    1.1 Studying hard in the college
+   
    1.2 Try to have at least 1 internship in the college period
+   
    1.3 Creating many projects 
+   
    1.4 Enhancing Github, LinkedIn & CV for sure 
   
 2. Of course to be able to enhance CV there are some tips you need to be able to [have a great professional CV:](https://youtu.be/NR7bAMxhqB0)
 
    2.1 The email should be professional (ahmedmenaim@gmail.com, mohamedahmed@outlook.com, mahmoudelshahawy47@gmail.com, etc...) so the email may include some numbers but always needs your name to be more professional & never do anything like: (mohameddarknight@gmail.com, karemdracula@outlook.com, etc...) so never put nicknames or fake names in the email because once you do that, you'll be REJECTED ❌❌
    
-   2.2 Try to be short as possible, I don't need to check a CV includes **12** pages to be able to check if I will hire you or not so make it simple as much as you can (** PREFERED: 1 page CV **)
+   2.2 Try to be short as possible, I don't need to check a CV includes **12** pages to be able to check if I will hire you or not so make it simple as much as you can **( PREFERED: 1 page CV )**
   
    2.3 NEVER forget to set your phone number to be able to contact you
    
@@ -87,6 +163,7 @@ May be there is an issue in the CV or my Linkedin profile and that's why I have 
 4. Everyone needs to have a remote job when you are at your home and can reduce more time to do extra things and once you have read more about Linkedin you will knew that you can find a remote job through it by doing some steps and activates some alerts [so you can check this video which talks about how to find remote jobs using linkedin](https://youtu.be/yvkB40z32q4)
 
 5. Have you found a remote job? Great !! but let's deep dive into the details of the contract and some issues you may face like your insurance, vaccactions, Annual balance, etc... So before signing the contract you need to know more & more about these details which you can find from here: [All you need to know about applying for a remote job.](https://youtu.be/3KQ2lEvZF5I)
+
 
 ## Tech Talks
 ### COMING SOON...
