@@ -106,7 +106,7 @@ So you can check the below topics:
 3. [iOS AutoLayout Part I](https://youtu.be/iKJwDGpwrXE)
 4. [iOS AutoLayout using ScrollView](https://youtu.be/FdcFWgofJvs)
 
-More videos in iOS design will come very soon but after finishing the [Swift course](https://github.com/CryptoOo/MenaimAcademy/edit/main/README.md#swift-course).
+More videos in iOS design will come very soon but after finishing the [Swift course](https://github.com/CryptoOo/MenaimAcademy/blob/main/README.md#swift-course).
 
 ## Random iOS Topics
 
