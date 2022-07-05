@@ -12,12 +12,13 @@
     * [Course Content](#course-content)
     * [Course Assignments](#course-assignments)
     * [Course Advices](#course-advices)
-* [Introduction to swiftUI](#swiftui-course)
 * [Introduction to iOS Design](#ios-design-basics)
 * [Random iOS Topics](#random-ios-topics)
 * [Github App](#github-app)
+* [Introduction to swiftUI](#swiftui-course---weather-app)
 * [How to get a job !?](#how-to-get-a-job)
 * [Tech Talks](#tech-talks)
+* [Contact me](#find-me-on)
 
 ## Programming Topics
 
@@ -34,6 +35,19 @@ In this playlist I'm giving you a small introduction about the meaning of progra
 
 In this course I will include all you need to know about Swift as a programming language or even as a beginner in the programming, so if you don't know anything about programming, Don't worry because this course is for you 😉
 
+As always once you enetered apple world you will be surprised with their documentation about everything and that's why welcome our main helper in this course which is [Swift Documentation](https://www.swift.org/documentation/), and the repeated question in your head an many other people is **why swift?** I have post this question in [Linkedin](https://www.linkedin.com/posts/ahmed-menaim-22cm_%D9%85%D8%A7-%D8%AA%D9%8A%D8%AC%D9%88%D8%A7-%D9%83%D8%AF%D9%87-%D9%86%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D9%84%D9%8A%D9%87-swift-%D9%84%D8%BA%D8%A9-%D9%82%D9%88%D9%8A%D8%A9-%D9%85%D9%86-activity-6937030215961313281-tivt?utm_source=linkedin_share&utm_medium=member_desktop_web) before and I was surprised by the answered but just to summarize these answers:
+
+1. Easy to use compared to Objective-C
+2. Open source language
+3. Memory Managment
+4. Can be used to create an API ( Backend )
+5. Strongly-Typed Language
+6. You can use it using Playgrounds
+7. Supports OOP and functional programming
+8. More productive language
+
+**[You can check more features from here]()**
+
 ### Course Requirements
 Don't worry no need for MacBook 💻 you can use any PC or Laptop you have becasue we can use these online websites to help us through our journey in this course:
 
@@ -41,7 +55,7 @@ Don't worry no need for MacBook 💻 you can use any PC or Laptop you have becas
 2. [Online Swift Playground](http://online.swiftplayground.run/)
 
 Also if you have a macbook Pro or Air it will be great because it will be a little bit easier to find an error or warning and if you don't know what are these warnings ⚠️ or errors ❌ , Don't worry every thing will be a piece of cake after the course.
-So if you have a **macbook** you need to download [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) as we will use its **Playground** in most of our work in this course.
+So if you have a **macbook** you need to download [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) as we will use its **Playground** in most of our work in this course, [also everything about xcode is described in this video.]()
 
 
 ### Course Content
@@ -58,13 +72,18 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
 11. Collection Types - Set [Code]()
 12. Collection Types - Dictionaries [Code]()
 13. Control Flow - Loops [Code]()
-14. Functions Part I [Code]()
-15. Tuples + Functions Part II [Code]()
-16. Functions Part III [Code]()
+14. [Assignment 1](#assignment-1)
+15. [Assignment 2](#assignment-2)
+16. Functions Part I [Code]()
+17. Tuples + Functions Part II [Code]()
+18. Functions Part III [Code]()
+19. [Assignment 3](#assignment-3)
 
 
 ### Course Assignments
-1. Assignment 1 -> Iterations all the time ⌛️
+   #### Assignment-1
+   
+   **Iterations all the time ⌛️**
    
          a. iterate on numbers from 1 -> 100 and print the number at each time
       
@@ -72,7 +91,9 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
       
 <!--          c. Welcome to the anime world 🥳  -->
 
-2. Assignment 2 -> Grading Student 📚
+   #### Assignment-2
+   
+   **Grading Student 📚**
 
     Consider yourself a student and we have your grades out of 100 in a dictionary like this: 
           grades = ["Math": 85, "Arabic": 90, "Chemistery": 60, "Physics": 95, "English": 70, "Duetsch": 93]
@@ -84,7 +105,9 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
          c. print the best subject name with its grade
     
 
-3. Assignment 3 -> Functions World 🌎
+   #### Assignment-3
+   
+   **Functions World 🌎**
 
    You will practice your knowledge in functions as below:
    
@@ -118,8 +141,6 @@ As any iOS engineer while developing your apps you may face a new thing and this
    3. [Images Autosizing in CollectionViews](https://youtu.be/zBzTnR9BoaQ)
    4. [Introduction to iOS unit testing](https://youtu.be/-fGdNcG26a8)
    
-## SwiftUI Course
-
 
 ## Github App
 As an iOS fresh learner, you will need to get your hand on the field more and more, that's why you need to try creating different apps all the time and these apps supposed to contain newtowrk layer, to be on advanced architectures and to be as much as you can in a clean code and the best way as you can so I've create this app which you can implement all of the previous just like I said: 
@@ -132,6 +153,21 @@ As an iOS fresh learner, you will need to get your hand on the field more and mo
 6. [From MVC to MVP](https://youtu.be/OyHEpByT4XU) ( Architecture )
 
 [**You can know more about it through its repository.**](https://github.com/CryptoOo/Github-Project-Swift)
+
+
+## SwiftUI Course - Weather App
+Some companies are requesting to have some knowledge in SwiftUI even it's a basic knowledge and as you know, always knowing some basics is better than nothing, that's why I've created this playlist to introduce you to the swiftUI world in a smooth way as usual and here you are the topics you will learn:
+
+1. [Weather App - Project Introduction](https://youtu.be/n5vU30pXOl8)
+2. [Difference between Stacks (Zstack, Vstack & Hstack) ](https://youtu.be/ApdNs_zUNbY)
+3. [How to use SF Symbols? - Multicolor Symbols](https://youtu.be/FQVdCvmLHGw)
+4. [Weather Icon + Degree](https://youtu.be/MdJ80OKIMzQ)
+5. [Create the Day Stack](https://youtu.be/8G5BTet2BPQ)
+6. [How to refactor SwiftUI Components + Adding Button](https://youtu.be/Prz1yyxjZt0)
+7. [Usage of @State & @Binding + Change to Dark Mode ](https://youtu.be/oEuKGXLx-UQ)
+
+[**You can know more about it through its repository.**](https://github.com/CryptoOo/WeatherApp)
+
 
 ## How to get a job
 
@@ -172,5 +208,9 @@ May be there is an issue in the CV or my Linkedin profile and that's why I have 
 Talks with egyptian professional software engineers
 
 
+## Find me on
 
+[![Linkedin: Menaim](https://img.shields.io/badge/-Menaim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-menaim-22cm/)](https://www.linkedin.com/in/ahmed-menaim-22cm/) [![Facebook Badge](https://img.shields.io/badge/-@Menaim-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/ahmed.menaim.3)](https://www.facebook.com/ahmed.menaim.3)
+<a href="https://menaim.medium.com/"> <img src= "https://user-images.githubusercontent.com/26345314/162615248-54692c38-dd46-418b-bf73-d4e3b81fe973.png" width="40">
+<a href="https://stackoverflow.com/users/14437411/menaim"> <img src= "https://user-images.githubusercontent.com/26345314/162581545-9cec2771-efa9-4992-a331-ebda39ddb7fc.png" width="40">
 
