@@ -11,7 +11,6 @@
     * [Course Requirements](#course-requirements)
     * [Course Content](#course-content)
     * [Course Assignments](#course-assignments)
-    * [Course Advices](#course-advices)
 * [Introduction to iOS Design](#ios-design-basics)
 * [Random iOS Topics](#random-ios-topics)
 * [Github App](#github-app)
@@ -74,10 +73,7 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
 13. Control Flow - Loops [Code]()
 14. [Assignment 1](#assignment-1)
 15. [Assignment 2](#assignment-2)
-16. Functions Part I [Code]()
-17. Tuples + Functions Part II [Code]()
-18. Functions Part III [Code]()
-19. [Assignment 3](#assignment-3)
+
 
 
 ### Course Assignments
@@ -104,21 +100,6 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
          
          c. print the best subject name with its grade
     
-
-   #### Assignment-3
-   
-   **Functions World 🌎**
-
-   You will practice your knowledge in functions as below:
-   
-         a. Create calculator functions -> function to sum, function to subtract, function to multiply & function to divide
-         sum & subtract will print the result but multiply & divide will return the result
-         
-         b. Create a function with an Int array parameter and return a (string) which is the heighst number
-         
-         c. Create a function one double parameter to calculate the circle area & perimeter (محيط) and return both of them in one time 
-
-### Course Advices
 
 ## iOS Design Basics
 
