@@ -45,7 +45,6 @@ As always once you enetered apple world you will be surprised with their documen
 7. Supports OOP and functional programming
 8. More productive language
 
-**[You can check more features from here]()**
 
 ### Course Requirements
 Don't worry no need for MacBook 💻 you can use any PC or Laptop you have becasue we can use these online websites to help us through our journey in this course:
@@ -79,17 +78,17 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
 ### Course Assignments
    #### Assignment-1
    
-   **Iterations all the time ⌛️**
+<!--    **Iterations all the time ⌛️**
    
          a. iterate on numbers from 1 -> 100 and print the number at each time
       
-         b. You have a list of students -> ["Ahmed", "Menna", "Mohamed", "Ehab", "Nermeen", "Menaim", "Mahmoud", "Yara"] and I need to print the names which are in odd indeces and even indeces in the list
+         b. You have a list of students -> ["Ahmed", "Menna", "Mohamed", "Ehab", "Nermeen", "Menaim", "Mahmoud", "Yara"] and I need to print the names which are in odd indeces and even indeces in the list -->
       
 <!--          c. Welcome to the anime world 🥳  -->
 
    #### Assignment-2
    
-   **Grading Student 📚**
+<!--    **Grading Student 📚**
 
     Consider yourself a student and we have your grades out of 100 in a dictionary like this: 
           grades = ["Math": 85, "Arabic": 90, "Chemistery": 60, "Physics": 95, "English": 70, "Duetsch": 93]
@@ -98,7 +97,7 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
          
          b. If the % is greater than 90% print "Excellent", if it's less than 60% print "Failed" otherwise print "Good"
          
-         c. print the best subject name with its grade
+         c. print the best subject name with its grade -->
     
 
 ## iOS Design Basics
@@ -129,7 +128,7 @@ As an iOS fresh learner, you will need to get your hand on the field more and mo
 1. [API Service using URLSession + Codable](https://youtu.be/CLwZxqJWm4A)
 2. [App initial Design and View API Data](https://youtu.be/BwMDLRHNssE)
 3. [Pagination without having page parameter in API Call](https://youtu.be/yltir4oke5I) -> TOP IMPORTANT
-4. [Download Image from URL without using Pods or Frameworks](https://youtu.be/-lnZ1f4uPWE) -> Required in tasks
+4. [Download Image from URL without using Pods or Frameworks](https://youtu.be/-lnZ1f4uPWE) -> Required in companies tasks
 5. [Using Nibs instead of Storyboards](https://youtu.be/q4HInmbsDkw)
 6. [From MVC to MVP](https://youtu.be/OyHEpByT4XU) ( Architecture )
 
