@@ -78,17 +78,16 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
 ### Course Assignments
    #### Assignment-1
    
-<!--    **Iterations all the time ⌛️**
+**Iterations all the time ⌛️**
    
          a. iterate on numbers from 1 -> 100 and print the number at each time
       
-         b. You have a list of students -> ["Ahmed", "Menna", "Mohamed", "Ehab", "Nermeen", "Menaim", "Mahmoud", "Yara"] and I need to print the names which are in odd indeces and even indeces in the list -->
+         b. You have a list of students -> ["Ahmed", "Menna", "Mohamed", "Ehab", "Nermeen", "Menaim", "Mahmoud", "Yara"] and I need to print the names which are in odd indeces in a seperate list and the names which are in even indeces in a seperate list.
       
-<!--          c. Welcome to the anime world 🥳  -->
 
    #### Assignment-2
    
-<!--    **Grading Student 📚**
+ **Grading Student 📚**
 
     Consider yourself a student and we have your grades out of 100 in a dictionary like this: 
           grades = ["Math": 85, "Arabic": 90, "Chemistery": 60, "Physics": 95, "English": 70, "Duetsch": 93]
@@ -97,7 +96,7 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
          
          b. If the % is greater than 90% print "Excellent", if it's less than 60% print "Failed" otherwise print "Good"
          
-         c. print the best subject name with its grade -->
+         c. print the best subject name with its grade
     
 
 ## iOS Design Basics
@@ -184,8 +183,37 @@ May be there is an issue in the CV or my Linkedin profile and that's why I have 
 
 
 ## Tech Talks
-### COMING SOON...
-Talks with egyptian professional software engineers
+Talks with egyptian professional software engineers:
+
+1. Eng Essam Fahmi is an iOS Engineer in CI&T, Ex Coca-Cola, Johnson & Johnson
+
+   [Click here to watch the talk](https://www.youtube.com/watch?v=Fu7tUWffEJo)
+
+![Essam image 003](https://user-images.githubusercontent.com/26345314/186196460-8adf2e47-79bf-49b9-acf0-b2d747698edf.jpeg)
+
+
+2. Eng Ayatoullah Ramzy is a Software Engineer in Micrososft.
+
+   [Click here to watch the talk](https://www.youtube.com/watch?v=8uWHcFZ1wNo)
+
+![Ayatoullah Ramzy 001](https://user-images.githubusercontent.com/26345314/186197445-cf676842-9daf-4f88-8270-568e98a71c0c.jpeg)
+
+
+
+3. Eng Mohamed Sayed is a Cybersecuirty Engineer in CyShield.
+
+   [Click here to watch the talk](https://www.youtube.com/watch?v=PToZa8vZa0E)
+
+![Flex 001](https://user-images.githubusercontent.com/26345314/186197992-02a7f23f-f111-4f2c-bcf3-226b0c883da3.jpeg)
+
+
+
+4. Eng Mohamed Ehab is a Senior .Net Engineer in YOUXEL Technology.
+
+   [Click here to watch the talk](https://www.youtube.com/watch?v=NK8iN7QqeXU)
+
+
+![Ehab 001](https://user-images.githubusercontent.com/26345314/186198491-b1ef0438-2544-4636-9649-84b64614ceba.jpeg)
 
 
 ## Find me on
