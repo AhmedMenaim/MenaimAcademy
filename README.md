@@ -53,7 +53,7 @@ Don't worry no need for MacBook 💻 you can use any PC or Laptop you have becas
 2. [Online Swift Playground](http://online.swiftplayground.run/)
 
 Also if you have a macbook Pro or Air it will be great because it will be a little bit easier to find an error or warning and if you don't know what are these warnings ⚠️ or errors ❌ , Don't worry every thing will be a piece of cake after the course.
-So if you have a **macbook** you need to download [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) as we will use its **Playground** in most of our work in this course, [also everything about xcode is described in this video.]()
+So if you have a **macbook** you need to download [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) as we will use its **Playground** in most of our work in this course, [also everything about xcode is described in this video.](https://youtu.be/93datbd-2Rk)
 
 
 ### Course Content
