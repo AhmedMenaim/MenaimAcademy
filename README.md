@@ -57,7 +57,7 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
 
 
 ### Course Content
-1. Constants & Variables [Code]()
+1. Constants & Variables [Code](https://gist.github.com/CryptoOo/d2ca7a8a777a34324b4fbe5d1031d1f6) - [Video](https://youtu.be/ER6Wbeyf8mQ)
 2. Data Types -> (Float,Double,Bool & Character) [Code]()
 3. Data Types - Strings [Code]()
 4. Conversions & Comments [Code]()
