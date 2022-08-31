@@ -58,7 +58,7 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
 
 ### Course Content
 1. Constants & Variables [Code](https://gist.github.com/CryptoOo/d2ca7a8a777a34324b4fbe5d1031d1f6) - [Video](https://youtu.be/ER6Wbeyf8mQ)
-2. Data Types -> (Float,Double,Bool & Character) [Code]()
+2. Data Types -> (Float,Double,Bool & Character) [Code](https://gist.github.com/CryptoOo/4bd00d9131ae21a240c1361fa101f3f1) - [Video](https://youtu.be/WDXpE_o3P2k)
 3. Data Types - Strings [Code]()
 4. Conversions & Comments [Code]()
 5. Optionals [Code]()
@@ -214,6 +214,13 @@ Talks with egyptian professional software engineers:
 
 
 ![Ehab 001](https://user-images.githubusercontent.com/26345314/186198491-b1ef0438-2544-4636-9649-84b64614ceba.jpeg)
+
+
+5. Eng Islam Mostafa is a Senior Digital Forinsec Engineer in EGCert.
+
+   [Click here to watch the talk](https://www.youtube.com/watch?v=45AoXLU2c5Y)
+
+![Islam](https://user-images.githubusercontent.com/26345314/187779105-8a047138-08c0-4c80-9eee-6abd84ddebbb.jpeg)
 
 
 ## Find me on
