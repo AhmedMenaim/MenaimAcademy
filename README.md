@@ -59,8 +59,8 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
 ### Course Content
 1. Constants & Variables [Code](https://gist.github.com/CryptoOo/d2ca7a8a777a34324b4fbe5d1031d1f6) - [Video](https://youtu.be/ER6Wbeyf8mQ)
 2. Data Types -> (Float,Double,Bool & Character) [Code](https://gist.github.com/CryptoOo/4bd00d9131ae21a240c1361fa101f3f1) - [Video](https://youtu.be/WDXpE_o3P2k)
-3. Data Types - Strings [Code]()
-4. Conversions & Comments [Code]()
+3. Data Types - Strings [Code](https://gist.github.com/CryptoOo/5890202639fe4185d27fc198d843c23a) - [Video](https://youtu.be/oJJkQWZjhMI)
+4. Conversions & Comments [Code](https://gist.github.com/CryptoOo/522e4a0074e0b656655663a20d4e9e40) - [Video](https://youtu.be/rKjoNktRfZU)
 5. Optionals [Code]()
 6. Operators Part I [Code]()
 7. Conditional Statements - If else [Code]()
@@ -221,6 +221,14 @@ Talks with egyptian professional software engineers:
    [Click here to watch the talk](https://www.youtube.com/watch?v=45AoXLU2c5Y)
 
 ![Islam](https://user-images.githubusercontent.com/26345314/187779105-8a047138-08c0-4c80-9eee-6abd84ddebbb.jpeg)
+
+
+5. Eng Abdelrahman Foda is an iOS Software Engineer at Zalando (Germany).
+
+   [Click here to watch the talk](https://youtu.be/QuWvEzememY)
+
+![Foda 001](https://user-images.githubusercontent.com/26345314/188487575-9555e13f-7b40-475f-b6df-1c365efda70a.JPEG)
+
 
 
 ## Find me on
