@@ -61,7 +61,7 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
 2. Data Types -> (Float,Double,Bool & Character) [Code](https://gist.github.com/CryptoOo/4bd00d9131ae21a240c1361fa101f3f1) - [Video](https://youtu.be/WDXpE_o3P2k)
 3. Data Types - Strings [Code](https://gist.github.com/CryptoOo/5890202639fe4185d27fc198d843c23a) - [Video](https://youtu.be/oJJkQWZjhMI)
 4. Conversions & Comments [Code](https://gist.github.com/CryptoOo/522e4a0074e0b656655663a20d4e9e40) - [Video](https://youtu.be/rKjoNktRfZU)
-5. Optionals [Code]()
+5. Optionals [Code](https://gist.github.com/CryptoOo/ad673ac1c7c8dad1e729b3223e356781) - [Video](https://youtu.be/AokN0HI1sWo)
 6. Operators Part I [Code]()
 7. Conditional Statements - If else [Code]()
 8. Conditional Statements - Switch case [Code]()
@@ -228,6 +228,13 @@ Talks with egyptian professional software engineers:
    [Click here to watch the talk](https://youtu.be/QuWvEzememY)
 
 ![Foda 001](https://user-images.githubusercontent.com/26345314/188487575-9555e13f-7b40-475f-b6df-1c365efda70a.JPEG)
+
+
+5. Eng Mohammed Elzanaty is a senior tech lead in _VOIS & Web Lead in Udacity.
+
+   [Click here to watch the talk](https://www.youtube.com/watch?v=qjkesbBrQYs)
+
+![Zanaty 001](https://user-images.githubusercontent.com/26345314/190356822-d879ed06-062e-4d68-85a8-4d639b6904d7.jpeg)
 
 
 
