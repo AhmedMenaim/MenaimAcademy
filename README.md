@@ -62,7 +62,7 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
 3. Data Types - Strings [Code](https://gist.github.com/CryptoOo/5890202639fe4185d27fc198d843c23a) - [Video](https://youtu.be/oJJkQWZjhMI)
 4. Conversions & Comments [Code](https://gist.github.com/CryptoOo/522e4a0074e0b656655663a20d4e9e40) - [Video](https://youtu.be/rKjoNktRfZU)
 5. Optionals [Code](https://gist.github.com/CryptoOo/ad673ac1c7c8dad1e729b3223e356781) - [Video](https://youtu.be/AokN0HI1sWo)
-6. Operators Part I [Code]()
+6. Operators Part I [Code](https://gist.github.com/CryptoOo/16c1bbf30918dcee713238aaae4bddaa) - [Video](https://youtu.be/wZ9v2zJWP-c)
 7. Conditional Statements - If else [Code]()
 8. Conditional Statements - Switch case [Code]()
 9. Operators Part II [Code]()
