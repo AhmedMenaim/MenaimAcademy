@@ -63,13 +63,13 @@ So if you have a **macbook** you need to download [Xcode](https://apps.apple.com
 4. Conversions & Comments [Code](https://gist.github.com/CryptoOo/522e4a0074e0b656655663a20d4e9e40) - [Video](https://youtu.be/rKjoNktRfZU)
 5. Optionals [Code](https://gist.github.com/CryptoOo/ad673ac1c7c8dad1e729b3223e356781) - [Video](https://youtu.be/AokN0HI1sWo)
 6. Operators Part I [Code](https://gist.github.com/CryptoOo/16c1bbf30918dcee713238aaae4bddaa) - [Video](https://youtu.be/wZ9v2zJWP-c)
-7. Conditional Statements - If else [Code]()
-8. Conditional Statements - Switch case [Code]()
-9. Operators Part II [Code]()
-10. Collection Types - Arrays [Code]()
-11. Collection Types - Set [Code]()
-12. Collection Types - Dictionaries [Code]()
-13. Control Flow - Loops [Code]()
+7. Conditional Statements - If else [Code](https://gist.github.com/CryptoOo/b1fea20ed75e1a99bde8aa49a0ccda05) - [Video](https://youtu.be/gc-ZDygwkuM)
+8. Conditional Statements - Switch case [Code](https://gist.github.com/CryptoOo/e38dea96ac2ebde0f543e5490cfa0d3d) - [Video](https://youtu.be/R4Mu3dzb_B0)
+9. Operators Part II [Code](https://gist.github.com/CryptoOo/436d57e3bae41cb6b7a53a04e3ccf023) - [Video](https://youtu.be/WdKQ6O-JPjg)
+10. Collection Types - Arrays [Code](https://gist.github.com/CryptoOo/e7c3d576a3d97b60fc7cd126ff0d5c96) - [Video](https://youtu.be/gs6OwNtN464)
+11. Collection Types - Set [Code](https://gist.github.com/CryptoOo/365fafc56bbd63dd93cb751619166c6b) - [Video](https://youtu.be/tEZ-PFSAA_k)
+12. Collection Types - Dictionaries [Code](https://gist.github.com/CryptoOo/9fe80e168158c5f3a3f46af4ebb6e8cf) - [Video](https://youtu.be/nKFiHn0Eujs)
+13. Control Flow - Loops [Code](https://gist.github.com/CryptoOo/4e8bd0071d18ef7064975ff06748687f) - [Video](https://youtu.be/OhnWH1P7zbA)
 14. [Assignment 1](#assignment-1)
 15. [Assignment 2](#assignment-2)
 
@@ -223,19 +223,37 @@ Talks with egyptian professional software engineers:
 ![Islam](https://user-images.githubusercontent.com/26345314/187779105-8a047138-08c0-4c80-9eee-6abd84ddebbb.jpeg)
 
 
-5. Eng Abdelrahman Foda is an iOS Software Engineer at Zalando (Germany).
+6. Eng Abdelrahman Foda is an iOS Software Engineer at Zalando (Germany).
 
    [Click here to watch the talk](https://youtu.be/QuWvEzememY)
 
 ![Foda 001](https://user-images.githubusercontent.com/26345314/188487575-9555e13f-7b40-475f-b6df-1c365efda70a.JPEG)
 
 
-5. Eng Mohammed Elzanaty is a senior tech lead in _VOIS & Web Lead in Udacity.
+7. Eng Mohammed Elzanaty is a senior tech lead in _VOIS & Web Lead in Udacity.
 
    [Click here to watch the talk](https://www.youtube.com/watch?v=qjkesbBrQYs)
 
 ![Zanaty 001](https://user-images.githubusercontent.com/26345314/190356822-d879ed06-062e-4d68-85a8-4d639b6904d7.jpeg)
 
+
+8. Eng Muhammad Gamal is a Senior Cyber Security Consultant in Secure Networks.
+
+-  Arab Security Conference Speaker for three years in a row 2019,2020 & 2021
+-  Arab Cyber Security Social media influencer for three years in a row 2020,2021 & 2022
+
+   [Click here to watch the talk](https://youtu.be/hcJ2denBdqs)
+
+![Muhammad Gamal 001](https://user-images.githubusercontent.com/26345314/193461552-a1c8004e-dcdb-452e-ae0e-10c80f8efc41.jpeg)
+
+
+9. Eng Ahmed Ali is a Software Engineer in Meta, Ex-Google, Ex-Microsoft.
+
+* He is a software engineer now in Amazon.
+
+   [Click here to watch the talk]()
+
+![Ahmed Ali- jpeg 001](https://user-images.githubusercontent.com/26345314/193461529-13cbd52e-b998-4df3-81cd-af2f45e32c40.jpeg)
 
 
 ## Find me on
